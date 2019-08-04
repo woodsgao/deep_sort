@@ -1,4 +1,4 @@
-# vim: expandtab:ts=4:sw=4
+# run in deep_sort with yolov3(pytorch)
 from __future__ import division, print_function, absolute_import
 
 import argparse
